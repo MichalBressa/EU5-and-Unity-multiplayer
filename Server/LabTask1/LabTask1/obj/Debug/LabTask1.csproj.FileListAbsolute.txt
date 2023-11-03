@@ -1,0 +1,16 @@
+C:\Users\bressam\source\repos\LabTask1\LabTask1\bin\Debug\LabTask1.exe.config
+C:\Users\bressam\source\repos\LabTask1\LabTask1\bin\Debug\LabTask1.exe
+C:\Users\bressam\source\repos\LabTask1\LabTask1\bin\Debug\LabTask1.pdb
+C:\Users\bressam\source\repos\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.AssemblyReference.cache
+C:\Users\bressam\source\repos\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bressam\source\repos\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.CoreCompileInputs.cache
+C:\Users\bressam\source\repos\LabTask1\LabTask1\obj\Debug\LabTask1.exe
+C:\Users\bressam\source\repos\LabTask1\LabTask1\obj\Debug\LabTask1.pdb
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\bin\Debug\LabTask1.exe.config
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\bin\Debug\LabTask1.exe
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\bin\Debug\LabTask1.pdb
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.AssemblyReference.cache
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.CoreCompileInputs.cache
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\obj\Debug\LabTask1.exe
+C:\Users\bressam\Desktop\GitHub\6018CEM\LabTask1\LabTask1\obj\Debug\LabTask1.pdb
